@@ -66,7 +66,7 @@ The trained models achieved high accuracy in classifying the six activities. The
 
 ├── notebooks/
 
-    └── HAR_Analysis.ipynb # Main Jupyter Notebook for the entire analysis
+ └── HAR_Analysis.ipynb # Main Jupyter Notebook for the entire analysis
  
 ├── models/ # (Optional) Saved trained models
 
