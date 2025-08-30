@@ -63,11 +63,17 @@ The trained models achieved high accuracy in classifying the six activities. The
 
 ## 📁 Repository Structure
 ├── data/ # Directory for dataset (not included in repo)
+
 ├── notebooks/
-│ └── HAR_Analysis.ipynb # Main Jupyter Notebook for the entire analysis
+
+ └── HAR_Analysis.ipynb # Main Jupyter Notebook for the entire analysis
+ 
 ├── models/ # (Optional) Saved trained models
+
 ├── images/ # Plots and visualizations
+
 ├── README.md
+
 └── requirements.txt # Python dependencies
 
 
